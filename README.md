@@ -36,7 +36,7 @@ Currently a student at the Power Learn Project (PLP) program, I enjoy building b
 🔹 Mini Calculator  
 A simple calculator built with Python.
 
-📄 [View Project on GitHub]("https://github.com/Toibat22/Mini-Calculator#readme")
+📄 [View Project on GitHub](https://github.com/Toibat22/Mini-Calculator#readme)
 
 
  📩 Contact
@@ -47,7 +47,7 @@ A simple calculator built with Python.
 
 📄 CV
 
-[Download CV]("ABDULHAMMED  TOIBAT CV.pdf")
+[Download CV](ABDULHAMMED  TOIBAT CV.pdf)
 
 
 
@@ -59,6 +59,7 @@ A simple calculator built with Python.
 - Google Fonts
 - VS Code
 - Git & GitHub
+
 
 
 © 2025 Abdulhammed Toibat Taye
