@@ -47,7 +47,7 @@ A simple calculator built with Python.
 
 📄 CV
 
-[Download CV](ABDULHAMMED  TOIBAT CV.pdf)
+[Download CV](ABDULHAMMED%20TOIBAT%20CV.pdf)
 
 
 
@@ -63,3 +63,4 @@ A simple calculator built with Python.
 
 
 © 2025 Abdulhammed Toibat Taye
+
